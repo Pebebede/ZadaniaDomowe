@@ -2,6 +2,7 @@ public class Zadanie {
 
     public void podajCiag() {
         Integer[] array = new Integer[10];
+        //
         wypelnienieTablicy(array);
         for (int i = 0; i < array.length; i++) {
             if (i < 2) {
